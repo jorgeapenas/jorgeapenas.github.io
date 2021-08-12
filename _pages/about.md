@@ -20,4 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am assistant professor at [University of Toulouse 1 Capitole](https://www.ut-capitole.fr/){:target="\_blank"} and member of the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/){:target="\_blank"}.
 
-I am interested in different aspects of [social evolution](https://en.wikipedia.org/wiki/Social_evolution){:target="\_blank"}, [collective action problems](https://www.britannica.com/topic/collective-action-problem-1917157){:target="\_blank"}, and their [mathematical modeling](https://en.wikipedia.org/wiki/Mathematical_model){:target="\_blank"}.
+I am interested in different aspects of [social evolution](https://en.wikipedia.org/wiki/Social_evolution){:target="\_blank"}, [collective action problems](https://en.wikipedia.org/wiki/Collective_action_problem){:target="\_blank"}, and their [mathematical modeling](https://en.wikipedia.org/wiki/Mathematical_model){:target="\_blank"}.
