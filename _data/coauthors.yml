@@ -53,9 +53,21 @@
   - firstname: ["Georg", "G."]
     url: https://sites.google.com/site/georgnoldeke/
 
+"Pichugin":
+  - firstname: ["Yuriy", "Y."]
+    url: https://www.evolbio.mpg.de/person/41706
+
 "Puebla":
-  - firstname: ["Oscar", "P."]
+  - firstname: ["Oscar", "O."]
     url: http://www.puebla-lab.org/
+
+"Rainey":
+  - firstname: ["Paul", "P."]
+    url: http://micropop.evolbio.mpg.de/
+
+"Traulsen":
+  - firstname: ["Arne", "A."]
+    url: http://web.evolbio.mpg.de/~traulsen/#home        
 
 "Van Cleve":
   - firstname: ["Jeremy", "J."]
