@@ -18,7 +18,7 @@
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
 "Brown":
-  - firstname: ["Sam", "S. P."]
+  - firstname: ["Sam", "Sam P.", "S. P."]
     url: https://brownlab.biology.gatech.edu/
 
 "Débarre":
@@ -38,7 +38,7 @@
     url: https://www.mgforero.info/
 
 "Harcombe":
-  - firstname: ["William", "William H.", "W. H."]
+  - firstname: ["William", "William R.", "W. R."]
     url: http://www.wrharcombe.org/
 
 "Hochberg":
@@ -67,7 +67,7 @@
 
 "Traulsen":
   - firstname: ["Arne", "A."]
-    url: http://web.evolbio.mpg.de/~traulsen/#home        
+    url: http://web.evolbio.mpg.de/~traulsen/#home
 
 "Van Cleve":
   - firstname: ["Jeremy", "J."]
