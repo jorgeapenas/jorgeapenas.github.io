@@ -5,16 +5,16 @@ permalink: /
 description: #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   address: >
-    <p>office T.423 (aile Canal)</p>
+    <p>office T.423</p>
     <p>Institute for Advanced Study in Toulouse</p>
     <p>1 Esplanade de l’Université</p>
     <p>31080 Toulouse Cedex 6, France</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
