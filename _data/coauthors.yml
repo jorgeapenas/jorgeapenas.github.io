@@ -10,9 +10,17 @@
   - firstname: ["Nathan", "N."]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Bach": 
+"Bach":
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+
+"González-Forero":
+  - firstname: ["Mauricio", "M."]
+    url: https://www.mgforero.info/
+
+"Nöldeke":
+  - firstname: ["Georg", "G."]
+    url: https://sites.google.com/site/georgnoldeke/
