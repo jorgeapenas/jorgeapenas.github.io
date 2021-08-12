@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: blank
+description:
 years: [2021, 2020, 2019, 2018, 2017, 2016, 1956, 1950, 1935, 1905]
 nav: true
 ---
