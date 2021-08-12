@@ -17,6 +17,10 @@
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
+"Arranz":
+  - firstname: ["Jordi", "J."]
+    url: https://www.researchgate.net/profile/Jordi_Arranz
+
 "Brown":
   - firstname: ["Sam", "Sam P.", "S. P."]
     url: https://brownlab.biology.gatech.edu/
@@ -32,7 +36,7 @@
 "dos Santos":
   - firstname: ["Miguel", "M."]
     url: https://migueldossantos.wordpress.com/
-    
+
 "Estrela":
   - firstname: ["Sylvie", "S."]
     url: https://sylvieestrela.weebly.com
@@ -76,3 +80,7 @@
 "Van Cleve":
   - firstname: ["Jeremy", "J."]
     url: http://vancleve.theoretical.bio
+
+"Wu":
+  - firstname: ["Bin", "B."]
+    url: https://www.researchgate.net/profile/Bin-Wu-2
