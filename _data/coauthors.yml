@@ -17,9 +17,37 @@
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
+"Brown":
+  - firstname: ["Sam", "S. P."]
+    url: https://brownlab.biology.gatech.edu/
+
+"Débarre":
+  - firstname: ["Florence", "Flo", "F."]
+    url: https://www.normalesup.org/~fdebarre/
+
+"Deforet":
+  - firstname: ["Maxime", "Max", "M."]
+    url: http://maxdeforet.com/
+
+"Estrela":
+  - firstname: ["Sylvie", "S."]
+    url: https://sylvieestrela.weebly.com
+
 "González-Forero":
   - firstname: ["Mauricio", "M."]
     url: https://www.mgforero.info/
+
+"Harcombe":
+  - firstname: ["William", "William H.", "W. H."]
+    url: http://www.wrharcombe.org/
+
+"Hochberg":
+  - firstname: ["Michael", "Michael E.", "M. E."]
+    url: https://eec.edu.umontpellier.fr/people/mike-hochberg/
+
+"Libby":
+  - firstname: ["Eric", "E."]
+    url: https://ericlibby.github.io
 
 "Nöldeke":
   - firstname: ["Georg", "G."]
@@ -28,3 +56,7 @@
 "Puebla":
   - firstname: ["Oscar", "P."]
     url: http://www.puebla-lab.org/
+
+"Van Cleve":
+  - firstname: ["Jeremy", "J."]
+    url: http://vancleve.theoretical.bio
