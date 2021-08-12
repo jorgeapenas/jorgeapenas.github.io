@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>office T.423</p>
-    <p>Institute for Advanced Study in Toulouse</p>
+    <p>IAST</p>
     <p>1 Esplanade de l’Université</p>
     <p>31080 Toulouse Cedex 6, France</p>
 
