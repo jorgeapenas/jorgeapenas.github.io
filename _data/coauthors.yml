@@ -29,6 +29,10 @@
   - firstname: ["Maxime", "Max", "M."]
     url: http://maxdeforet.com/
 
+"dos Santos":
+  - firstname: ["Miguel", "M."]
+    url: https://migueldossantos.wordpress.com/
+    
 "Estrela":
   - firstname: ["Sylvie", "S."]
     url: https://sylvieestrela.weebly.com
@@ -62,7 +66,7 @@
     url: http://www.puebla-lab.org/
 
 "Rainey":
-  - firstname: ["Paul", "P."]
+  - firstname: ["Paul", "Paul B.", "P."]
     url: http://micropop.evolbio.mpg.de/
 
 "Traulsen":
