@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   address: >
     <p>office T.423 (aile Canal)</p>
