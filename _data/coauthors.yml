@@ -105,6 +105,10 @@
   - firstname: ["Yannick", "Y."]
     url: https://yro.ch/
 
+"Sanchez":
+  - firstname: ["Eduardo", "E."]
+    url: https://people.epfl.ch/eduardo.sanchez?lang=fr
+
 "Stützle":
   - firstname: ["Thomas", "T."]
     url: http://iridia.ulb.ac.be/~stuetzle/
