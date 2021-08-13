@@ -121,9 +121,18 @@
   - firstname: ["Andrés", "A."]
     url: https://www.researchgate.net/profile/Andres-Upegui
 
+"Valencia":
+  - firstname: ["Andrés", "A."]
+    url: https://www.researchgate.net/profile/Andres-Valencia-14
+
 "Van Cleve":
   - firstname: ["Jeremy", "J."]
     url: http://vancleve.theoretical.bio
+
+"Vanegas":
+  - firstname: ["Mauricio", "M."]
+    url: https://scholar.google.com/citations?user=vjnia1sAAAAJ&hl=en
+
 
 "Volken":
   - firstname: ["Henri", "H."]
