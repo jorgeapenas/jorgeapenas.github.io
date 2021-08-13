@@ -77,6 +77,10 @@
   - firstname: ["Paul", "Paul B.", "P."]
     url: http://micropop.evolbio.mpg.de/
 
+"Rochat":
+  - firstname: ["Yannick", "Y."]
+    url: https://yro.ch/
+
 "Traulsen":
   - firstname: ["Arne", "A."]
     url: http://web.evolbio.mpg.de/~traulsen/#home
