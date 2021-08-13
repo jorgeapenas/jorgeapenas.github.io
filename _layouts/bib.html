@@ -34,7 +34,7 @@
               {% endif %}
             {% endfor %}
           {% endif %}
-          
+
           {% if forloop.length == 1 %}
             {% if author_is_self %}
               <em>{{author.last}}, {{author.first}}</em>
@@ -85,6 +85,9 @@
     {% endif %}
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    {% endif %}
+    {% if entry.preprint %}
+      <a href="{{ entry.preprint }}" class="btn btn-sm z-depth-0" role="button" target="_blank">preprint</a>
     {% endif %}
     {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
