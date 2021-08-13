@@ -73,7 +73,7 @@
   - firstname: ["Eric", "E."]
     url: https://ericlibby.github.io
 
-"Montes de Oca":
+"{Montes de Oca}":
   - firstname: ["Marco Antonio", "M. A."]
     url: http://montes-de-oca.com/
 
@@ -116,6 +116,10 @@
 "Traulsen":
   - firstname: ["Arne", "A."]
     url: http://web.evolbio.mpg.de/~traulsen/#home
+
+"Upegui":
+  - firstname: ["Andrés", "A."]
+    url: https://www.researchgate.net/profile/Andres-Upegui
 
 "Van Cleve":
   - firstname: ["Jeremy", "J."]
