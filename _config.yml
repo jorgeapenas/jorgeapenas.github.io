@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: ["Jorge", "J."]
+first_name: Jorge
 middle_name:
 last_name: Peña
 email: jorge.pena@iast.fr
@@ -154,7 +154,7 @@ github: [metadata]
 scholar:
 
   last_name: Peña
-  first_name: Jorge
+  first_name: ["Jorge", "J."]
 
   style: apa
   locale: en
