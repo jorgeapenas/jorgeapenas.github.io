@@ -41,6 +41,10 @@
   - firstname: ["Maxime", "Max", "M."]
     url: http://maxdeforet.com/
 
+"Dorigo":
+  - firstname: ["Marco", "M."]
+    url: http://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/
+
 "{dos Santos}":
   - firstname: ["Miguel", "M."]
     url: https://migueldossantos.wordpress.com/
@@ -69,6 +73,10 @@
   - firstname: ["Eric", "E."]
     url: https://ericlibby.github.io
 
+"Montes de Oca":
+  - firstname: ["Marco Antonio", "M. A."]
+    url: http://montes-de-oca.com/
+
 "Nöldeke":
   - firstname: ["Georg", "G."]
     url: https://sites.google.com/site/georgnoldeke/
@@ -81,6 +89,10 @@
   - firstname: ["Yuriy", "Y."]
     url: https://www.evolbio.mpg.de/person/41706
 
+"Pinciroli":
+  - firstname: ["Carlo", "C."]
+    url: https://carlo.pinciroli.net/
+
 "Puebla":
   - firstname: ["Oscar", "O."]
     url: http://www.puebla-lab.org/
@@ -92,6 +104,10 @@
 "Rochat":
   - firstname: ["Yannick", "Y."]
     url: https://yro.ch/
+
+"Stützle":
+  - firstname: ["Thomas", "T."]
+    url: http://iridia.ulb.ac.be/~stuetzle/
 
 "Tomassini":
   - firstname: ["Marco", "M."]
@@ -107,7 +123,7 @@
 
 "Volken":
   - firstname: ["Henri", "H."]
-    url: https://genealogy.math.ndsu.nodak.edu/id.php?id=105851    
+    url: https://genealogy.math.ndsu.nodak.edu/id.php?id=105851
 
 "Wu":
   - firstname: ["Bin", "B."]
