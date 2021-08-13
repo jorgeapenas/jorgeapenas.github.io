@@ -25,6 +25,10 @@
   - firstname: ["Sam", "Sam P.", "S. P."]
     url: https://brownlab.biology.gatech.edu/
 
+"Buesser":
+  - firstname: ["Pierre", "P."]
+    url: https://www.researchgate.net/profile/Pierre-Buesser-2
+
 "Débarre":
   - firstname: ["Florence", "Flo", "F."]
     url: https://www.normalesup.org/~fdebarre/
@@ -65,6 +69,10 @@
   - firstname: ["Georg", "G."]
     url: https://sites.google.com/site/georgnoldeke/
 
+"Pestelacci":
+  - firstname: ["Enea", "E."]
+    url: https://ch.linkedin.com/in/enea-pestelacci-0a98164
+
 "Pichugin":
   - firstname: ["Yuriy", "Y."]
     url: https://www.evolbio.mpg.de/person/41706
@@ -80,6 +88,10 @@
 "Rochat":
   - firstname: ["Yannick", "Y."]
     url: https://yro.ch/
+
+"Tomassini":
+  - firstname: ["Marco", "M."]
+    url: https://scholar.google.ch/citations?user=6vgFGvYAAAAJ&hl=en
 
 "Traulsen":
   - firstname: ["Arne", "A."]
