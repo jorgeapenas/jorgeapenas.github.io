@@ -53,6 +53,10 @@
   - firstname: ["Michael", "Michael E.", "M. E."]
     url: https://eec.edu.umontpellier.fr/people/mike-hochberg/
 
+"Lehmann":
+  - firstname: ["Laurent", "L."]
+    url: https://www.unil.ch/dee/en/home/menuinst/people/group-leaders/prof-laurent-lehmann.html
+
 "Libby":
   - firstname: ["Eric", "E."]
     url: https://ericlibby.github.io
