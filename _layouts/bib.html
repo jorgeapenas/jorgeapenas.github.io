@@ -86,6 +86,9 @@
     {% if entry.pressrelease %}
       <a href="{{ entry.pressrelease }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Press</a>
     {% endif %}
+    {% if entry.pressrelease2 %}
+      <a href="{{ entry.pressrelease2 }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Press</a>
+    {% endif %}
     {% if entry.arxiv %}
       <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     {% endif %}
