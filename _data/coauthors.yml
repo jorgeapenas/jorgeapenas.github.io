@@ -33,6 +33,10 @@
   - firstname: ["Pierre", "P."]
     url: https://www.researchgate.net/profile/Pierre-Buesser-2
 
+"Cooper":
+  - firstname: ["Guy", "Guy Alexander", "Guy A.", "G. A."]
+    url: https://www.guyacooper.com/
+
 "Débarre":
   - firstname: ["Florence", "Flo", "F."]
     url: https://www.normalesup.org/~fdebarre/
@@ -72,6 +76,10 @@
 "Libby":
   - firstname: ["Eric", "E."]
     url: https://ericlibby.github.io
+
+"Liu":
+  - firstname: ["Ming", "M."]
+    url: https://www.guyacooper.com/
 
 "{Montes de Oca}":
   - firstname: ["Marco Antonio", "M. A."]
@@ -141,10 +149,13 @@
   - firstname: ["Mauricio", "M."]
     url: https://scholar.google.com/citations?user=vjnia1sAAAAJ&hl=en
 
-
 "Volken":
   - firstname: ["Henri", "H."]
     url: https://genealogy.math.ndsu.nodak.edu/id.php?id=105851
+
+"West":
+  - firstname: ["Stuart Andrew"]
+    url: https://www.zoo.ox.ac.uk/people/professor-stuart-west#/
 
 "Wu":
   - firstname: ["Bin", "B."]
