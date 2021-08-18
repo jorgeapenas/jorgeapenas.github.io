@@ -33,7 +33,8 @@ and
 
 - "Economics and the Environment for Economists" (co-taught with
 [Jean-Pierre Amigues](https://www.tse-fr.eu/people/jean-pierre-amigues){:target="\_blank"},
-Alexis Chaine, Jean Clobert,
+[Alexis Chaine](https://scholar.google.com/citations?user=U7NInY8AAAAJ){:target="\_blank"},
+[Jean Clobert](https://scholar.google.com/citations?user=aq9GnD4AAAAJ){:target="\_blank"},
 [Étienne Danchin](http://www.edanchin.fr/?lang=en){:target="\_blank"},
 [Marion Desquilbet](https://www.tse-fr.eu/people/marion-desquilbet){:target="\_blank"},
 [Michel Loreau](https://scholar.google.co.uk/citations?user=eQNM6tAAAAAJ){:target="\_blank"},
