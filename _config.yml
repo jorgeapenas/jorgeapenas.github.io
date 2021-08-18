@@ -74,7 +74,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: It is easy to show that  # your blog must have a name for it to show up in the nav bar
+blog_name: Easy to show  # your blog must have a name for it to show up in the nav bar
 blog_description: correcting typos, mistakes, and filling gaps in theoretical papers (coming out soon)
 permalink: /blog/:year/:title/
 
