@@ -10,22 +10,24 @@ nav: true
 
 - "Introduction to Ecology for Economists". Master 2 Environmental and Natural Resources Economics course.
 
-- "Population Demography and Evolutionary Ecology" (co-taught with Simon Blanchet). Master 2 Environmental and Natural Resources Economics course.
+- "Population Demography and Evolutionary Ecology" (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}. [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"} course.
+
 
 ### 2018/2019 (spring)
 
-- "Advanced Behavioral and Experimental Economics II" (co-taught with Ingela Alger, Michael Becher, Paul Seabright, and Jonathan Stieglitz). Doctoral program DEEQA course.
+- "Advanced Behavioral and Experimental Economics II" (co-taught with [Ingela Alger](https://ingelaalger.weebly.com/){:target="\_blank"}, Michael Becher, Paul Seabright, and Jonathan Stieglitz). Doctoral program DEEQA course.
 
 ### 2018/2019 (fall)
 
 - "Introduction to Ecology for Economists".
-[Master 2 Environmental and Natural Resources Economics course](https://www.tse-fr.eu/erna){:target="\_blank"}.
+[Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"} course.
 
-- "Population Demography and Evolutionary Ecology" (co-taught with Simon Blanchet and Jean Clobert). Master 2 Environmental and Natural Resources Economics course.
+- "Population Demography and Evolutionary Ecology" (co-taught with Simon Blanchet and Jean Clobert). [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"} course.
+
 
 ### 2017/2018 (fall)
 
-- "Economics and the Environment for Economists" (co-taught with Jean-Pierre Amigues, Alexis Chaine, Jean Clobert, Étienne Danchin, Marion Desquilbet, Michel Loreau, and Claire de Mazancourt). Master 2 Environmental and Natural Resources Economics course.
+- "Economics and the Environment for Economists" (co-taught with Jean-Pierre Amigues, Alexis Chaine, Jean Clobert, Étienne Danchin, Marion Desquilbet, Michel Loreau, and Claire de Mazancourt). [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"} course.
 
 - "Economics and Evolution" (co-taught with Ingela Alger, Jean-Pierre Amigues, Paul Seabright, and Jörgen Weibull). Doctoral program DEEQA course.
 
