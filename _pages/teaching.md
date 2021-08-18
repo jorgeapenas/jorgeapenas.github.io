@@ -18,7 +18,7 @@ nav: true
 - "Advanced Behavioral and Experimental Economics II" (co-taught with [Ingela Alger](https://ingelaalger.weebly.com/){:target="\_blank"}, [Michael Becher](https://www.ie.edu/school-global-public-affairs/faculty-and-research/faculty/michael-becher/){:target="\_blank"}, [Paul Seabright](https://paulseabright.com/){:target="\_blank"},
 and
 [Jonathan Stieglitz](https://www.iast.fr/people/jonathan-stieglitz){:target="\_blank"}).
-Doctoral program DEEQA course.
+[Doctoral program](https://www.tse-fr.eu/doctoral-program){:target="\_blank"} course.
 
 ### 2018/2019 (fall)
 
