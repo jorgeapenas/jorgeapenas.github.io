@@ -6,11 +6,22 @@ description:
 nav: true
 ---
 
+### 2020/2021 (spring)
+
+- "Mathematical models of social evolution". [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}.
+
+### 2020/2021 (fall)
+
+- "Introduction to Ecology for Economists". [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"}.
+
+- "Population Demography and Evolutionary Ecology" (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}. [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"}.
+
+
 ### 2019/2020 (fall)
 
-- "Introduction to Ecology for Economists". Master 2 Environmental and Natural Resources Economics course.
+- "Introduction to Ecology for Economists". [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"}.
 
-- "Population Demography and Evolutionary Ecology" (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}. [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"} course.
+- "Population Demography and Evolutionary Ecology" (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}. [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"}.
 
 
 ### 2018/2019 (spring)
@@ -18,15 +29,15 @@ nav: true
 - "Advanced Behavioral and Experimental Economics II" (co-taught with [Ingela Alger](https://ingelaalger.weebly.com/){:target="\_blank"}, [Michael Becher](https://www.ie.edu/school-global-public-affairs/faculty-and-research/faculty/michael-becher/){:target="\_blank"}, [Paul Seabright](https://paulseabright.com/){:target="\_blank"},
 and
 [Jonathan Stieglitz](https://www.iast.fr/people/jonathan-stieglitz){:target="\_blank"}).
-[Doctoral program](https://www.tse-fr.eu/doctoral-program){:target="\_blank"} course.
+[Doctoral program](https://www.tse-fr.eu/doctoral-program){:target="\_blank"}.
 
 ### 2018/2019 (fall)
 
 - "Introduction to Ecology for Economists".
-[Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"} course.
+[Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"}.
 
 - "Population Demography and Evolutionary Ecology" (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"} and
-[Jean Clobert](https://scholar.google.com/citations?user=aq9GnD4AAAAJ){:target="\_blank"}). [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"} course.
+[Jean Clobert](https://scholar.google.com/citations?user=aq9GnD4AAAAJ){:target="\_blank"}). [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"}.
 
 
 ### 2017/2018 (fall)
@@ -39,10 +50,11 @@ and
 [Marion Desquilbet](https://www.tse-fr.eu/people/marion-desquilbet){:target="\_blank"},
 [Michel Loreau](https://scholar.google.co.uk/citations?user=eQNM6tAAAAAJ){:target="\_blank"},
 and
-[Claire de Mazancourt](https://scholar.google.fi/citations?user=mwd0mqUAAAAJ&hl=fi){:target="\_blank"}. [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"} course.
+[Claire de Mazancourt](https://scholar.google.fi/citations?user=mwd0mqUAAAAJ&hl=fi){:target="\_blank"}. [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"}.
 
 - "Economics and Evolution" (co-taught with [Ingela Alger](https://ingelaalger.weebly.com/){:target="\_blank"}, Jean-Pierre Amigues, [Paul Seabright](https://paulseabright.com/){:target="\_blank"}, and
-[Jörgen Weibull](https://sites.google.com/site/joergenweibull/){:target="\_blank"}). Doctoral program course.
+[Jörgen Weibull](https://sites.google.com/site/joergenweibull/){:target="\_blank"}).
+[Doctoral program](https://www.tse-fr.eu/doctoral-program){:target="\_blank"}.
 
 <!--For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
