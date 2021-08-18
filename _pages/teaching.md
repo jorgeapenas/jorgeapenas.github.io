@@ -18,10 +18,12 @@ nav: true
 
 ### 2018/2019 (fall)
 
-- "Introduction to Ecology for Economists". Master 2 Environmental and Natural Resources Economics course.
+- "Introduction to Ecology for Economists".
+[Master 2 Environmental and Natural Resources Economics course](https://www.tse-fr.eu/erna){:target="\_blank"}.
+
 - "Population Demography and Evolutionary Ecology" (co-taught with Simon Blanchet and Jean Clobert). Master 2 Environmental and Natural Resources Economics course.
 
-### 2017/2018 (Autumn)
+### 2017/2018 (fall)
 
 - "Economics and the Environment for Economists" (co-taught with Jean-Pierre Amigues, Alexis Chaine, Jean Clobert, Étienne Danchin, Marion Desquilbet, Michel Loreau, and Claire de Mazancourt). Master 2 Environmental and Natural Resources Economics course.
 
