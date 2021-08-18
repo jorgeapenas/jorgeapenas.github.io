@@ -15,7 +15,10 @@ nav: true
 
 ### 2018/2019 (spring)
 
-- "Advanced Behavioral and Experimental Economics II" (co-taught with [Ingela Alger](https://ingelaalger.weebly.com/){:target="\_blank"}, Michael Becher, Paul Seabright, and Jonathan Stieglitz). Doctoral program DEEQA course.
+- "Advanced Behavioral and Experimental Economics II" (co-taught with [Ingela Alger](https://ingelaalger.weebly.com/){:target="\_blank"}, [Michael Becher](https://www.ie.edu/school-global-public-affairs/faculty-and-research/faculty/michael-becher/){:target="\_blank"}, [Paul Seabright](https://paulseabright.com/){:target="\_blank"},
+and
+[Jonathan Stieglitz](https://www.iast.fr/people/jonathan-stieglitz){:target="\_blank"}).
+Doctoral program DEEQA course.
 
 ### 2018/2019 (fall)
 
