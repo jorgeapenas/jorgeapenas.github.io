@@ -16,7 +16,6 @@ nav: true
 
 - "Population Demography and Evolutionary Ecology" (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}. [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"}.
 
-
 ### 2019/2020 (fall)
 
 - "Introduction to Ecology for Economists". [Master 2 Environmental and Natural Resources Economics](https://www.tse-fr.eu/erna){:target="\_blank"}.
