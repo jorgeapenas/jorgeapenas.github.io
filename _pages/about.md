@@ -26,11 +26,3 @@ and
 [adaptive dynamics](https://en.wikipedia.org/wiki/Evolutionary_invasion_analysis){:target="\_blank"}.
 
 Here is a copy of my [CV](https://jorgeapenas.github.io/assets/pdf/cv_jorgepena.pdf){:target="\_blank"}.
-
-Institute for Advanced Study in Toulouse&nbsp;
-
-1 Esplanade de l’Université&nbsp;
-
-31080 Toulouse Cedex 6&nbsp;
-
-France&nbsp;
