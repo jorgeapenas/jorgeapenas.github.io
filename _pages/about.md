@@ -27,10 +27,10 @@ and
 
 Here is a copy of my [CV](https://jorgeapenas.github.io/assets/pdf/cv_jorgepena.pdf){:target="\_blank"}.
 
-Institute for Advanced Study in Toulouse
+Institute for Advanced Study in Toulouse&nbsp;
 
-1 Esplanade de l’Université
+1 Esplanade de l’Université&nbsp;
 
-31080 Toulouse Cedex 6
+31080 Toulouse Cedex 6&nbsp;
 
-France
+France&nbsp;
