@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am interested in mathematical evolutionary models of cooperation and conflict. My research focuses on different aspects of [social evolution](https://en.wikipedia.org/wiki/Social_evolution){:target="\_blank"} and [collective action problems](https://en.wikipedia.org/wiki/Collective_action_problem){:target="\_blank"}, and their [mathematical modeling](https://en.wikipedia.org/wiki/Mathematical_model){:target="\_blank"} using a variety of approaches, including
+I am interested in mathematical models of cooperation and conflict. My research focuses on different aspects of [social evolution](https://en.wikipedia.org/wiki/Social_evolution){:target="\_blank"} and [collective action problems](https://en.wikipedia.org/wiki/Collective_action_problem){:target="\_blank"}, and their [mathematical modeling](https://en.wikipedia.org/wiki/Mathematical_model){:target="\_blank"} using a variety of approaches, including
 [evolutionary game theory](https://en.wikipedia.org/wiki/Evolutionary_game_theory){:target="\_blank"}
 and
 [adaptive dynamics](https://en.wikipedia.org/wiki/Evolutionary_invasion_analysis){:target="\_blank"}.
