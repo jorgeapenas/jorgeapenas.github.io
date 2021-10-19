@@ -23,8 +23,8 @@ I am generally interested in mathematical evolutionary models of cooperation and
 and
 [adaptive dynamics](https://en.wikipedia.org/wiki/Evolutionary_invasion_analysis){:target="\_blank"}.
 
-I am currently an assistant professor at [University of Toulouse 1 Capitole](https://www.ut-capitole.fr/){:target="\_blank"} and a faculty member of the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/){:target="\_blank"}, where I lead the [Social Evolution team](https://www.iast.fr/social-evolution) and co-organize (together with [Péter Bayer](https://www.sites.google.com/view/peterbayer){:target="\_blank"} the [Evolutionary Models and Applications Group (EMAG)](https://emag-iast.github.io){:target="\_blank"}.
-
-
+I am currently an assistant professor at [University of Toulouse 1 Capitole](https://www.ut-capitole.fr/){:target="\_blank"} and a faculty member of the [Institute for Advanced Study in Toulouse (IAST)](https://www.iast.fr/){:target="\_blank"}.
+There, I lead the [Social Evolution team](https://www.iast.fr/social-evolution), and co-organize (together with [Péter Bayer](https://www.sites.google.com/view/peterbayer){:target="\_blank"}) the [Evolutionary Models and Applications Group (EMAG)](https://emag-iast.github.io){:target="\_blank"} and (together with [Victor Gay](https://sites.google.com/site/victorgayeco/){:target="\_blank"}) the [Toulouse Summer School in Quantitative Social Sciences](https://www.iast.fr/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}.
+I teach at the [Toulouse School Economics (TSE)](https://www.tse-fr.eu/){:target="\_blank"}' [Master in Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"} and at the TSE/IAST's [Toulouse Summer School in Quantitative Social Sciences](https://www.iast.fr/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}.
 
 Here is a copy of my [CV](https://jorgeapenas.github.io/assets/pdf/cv_jorgepena.pdf){:target="\_blank"}.
