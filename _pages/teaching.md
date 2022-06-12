@@ -8,14 +8,14 @@ nav: true
 
 ### 2021/2022 (spring)
 
-- Mathematical models of social evolution (co-taught with [Péter Bayer](https://www.sites.google.com/view/peterbayer){:target="\_blank"}. [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}.
+- Mathematical models of social evolution (co-taught with [Péter Bayer](https://www.sites.google.com/view/peterbayer){:target="\_blank"}). [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}.
 
 
 ### 2021/2022 (fall)
 
 - Introduction to ecology for economists. [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
 
-- Population demography and evolutionary ecology (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}. [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
+- Population demography and evolutionary ecology (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}). [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
 
 
 ### 2020/2021 (spring)
@@ -26,13 +26,13 @@ nav: true
 
 - Introduction to ecology for economists. [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
 
-- Population demography and evolutionary ecology (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}. [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
+- Population demography and evolutionary ecology (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}). [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
 
 ### 2019/2020 (fall)
 
 - Introduction to ecology for economists. [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
 
-- Population demography and evolutionary ecology (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}. [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
+- Population demography and evolutionary ecology (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"}). [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
 
 
 ### 2018/2019 (spring)
@@ -59,7 +59,7 @@ and [Jonathan Stieglitz](https://www.iast.fr/people/jonathan-stieglitz){:target=
 [Marion Desquilbet](https://www.tse-fr.eu/people/marion-desquilbet){:target="\_blank"},
 [Michel Loreau](https://scholar.google.co.uk/citations?user=eQNM6tAAAAAJ){:target="\_blank"},
 and
-[Claire de Mazancourt](https://scholar.google.fi/citations?user=mwd0mqUAAAAJ&hl=fi){:target="\_blank"}.
+[Claire de Mazancourt](https://scholar.google.fi/citations?user=mwd0mqUAAAAJ&hl=fi){:target="\_blank"}).
 [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
 
 - Economics and evolution (co-taught with [Ingela Alger](https://ingelaalger.weebly.com/){:target="\_blank"}, Jean-Pierre Amigues, [Paul Seabright](https://paulseabright.com/){:target="\_blank"}, and
