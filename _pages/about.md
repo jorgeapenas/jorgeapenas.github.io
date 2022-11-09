@@ -29,4 +29,4 @@ I teach at the [Toulouse School Economics (TSE)](https://www.tse-fr.eu/){:target
 
 Here is a copy of my [CV](https://jorgeapenas.github.io/assets/pdf/cv_jorgepena.pdf){:target="\_blank"}.
 
-You can also find me on [Mastodon](https://joinmastodon.org/){:target="\_blank"}: 🦣 [https://ecoevo.social/@jorgeapenas](https://ecoevo.social/@jorgeapenas){:target="\_blank" :rel="me"}.
+You can also find me on [Mastodon](https://joinmastodon.org/){:target="\_blank"}: 🦣 <a rel="me" href="https://ecoevo.social/@jorgeapenas">http://ecoevo.social/@jorgeapenas</a>.
