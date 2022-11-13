@@ -28,5 +28,3 @@ and related theoretical approaches at the intersection of evolutionary biology a
 I teach at the [Toulouse School Economics (TSE)](https://www.tse-fr.eu/){:target="\_blank"}'s [Master in Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}, at the [University of Toulouse 3 Paul Sabatier]([https://www.tse-fr.eu/](https://www.univ-tlse3.fr/)){:target="\_blank"}'s [Master Ecologie et Evolution]([https://www.tse-fr.eu/master-economics-and-ecology](https://www.univ-tlse3.fr/master-parcours-ecologie-evolution-ecoevo)){:target="\_blank"} and at the TSE/IAST's [Toulouse Summer School in Quantitative Social Sciences](https://www.iast.fr/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}.
 
 Here is a copy of my [CV](https://jorgeapenas.github.io/assets/pdf/cv_jorgepena.pdf){:target="\_blank"}.
-
-You can also find me on <a rel="me" href="https://ecoevo.social/@jorgeapenas">Mastodon</a> 🦣.
