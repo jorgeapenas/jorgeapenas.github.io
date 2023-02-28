@@ -2,9 +2,6 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-- name: Setup Ruby, JRuby and TruffleRuby
-  uses: ruby/setup-ruby@v1.139.0
-
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Jorge
 middle_name:
