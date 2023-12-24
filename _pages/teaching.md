@@ -44,7 +44,7 @@ and [Jonathan Stieglitz](https://www.iast.fr/people/jonathan-stieglitz){:target=
 
 - Introduction to ecology for economists. [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
 
-- Population demography and evolutionary Ecology (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"} and
+- Population demography and evolutionary ecology (co-taught with [Simon Blanchet](http://simonblanchet.weebly.com/){:target="\_blank"} and
 [Jean Clobert](https://scholar.google.com/citations?user=aq9GnD4AAAAJ){:target="\_blank"}).
 [Master 2 Economics and Ecology](https://www.tse-fr.eu/master-economics-and-ecology){:target="\_blank"}.
 
