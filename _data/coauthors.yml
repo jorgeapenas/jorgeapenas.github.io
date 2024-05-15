@@ -26,6 +26,11 @@
   - firstname: ["Maxime", "Max", "M."]
     url: http://maxdeforet.com/
 
+"Derex":
+  - firstname: ["Maxime", "M."]
+    url: https://maximederex.weebly.com/
+
+
 "Dorigo":
   - firstname: ["Marco", "M."]
     url: http://iridia.ulb.ac.be/~mdorigo/HomePageDorigo/
@@ -65,6 +70,10 @@
 "Liu":
   - firstname: ["Ming", "M."]
     url: https://www.zoo.ox.ac.uk/people/ming-liu
+
+"Molho":
+  - firstname: ["Catherine", "C."]
+    url: https://catherinemolho.github.io/
 
 "Montes De Oca":
   - firstname: ["Marco Antonio", "M. A."]
@@ -109,6 +118,10 @@
 "Sanchez":
   - firstname: ["Eduardo", "E."]
     url: https://people.epfl.ch/eduardo.sanchez?lang=fr
+
+"Singh":
+  - firstname: ["Manvir", "M."]
+    url: https://www.manvir.org/
 
 "Stützle":
   - firstname: ["Thomas", "T."]
