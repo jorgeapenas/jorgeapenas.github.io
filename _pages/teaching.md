@@ -6,6 +6,11 @@ description: courses taught since 2017
 nav: true
 ---
 
+### 2023/2024 (spring)
+
+- Mathematical models of social evolution. [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}.
+
+
 ### 2021/2022 (spring)
 
 - Mathematical models of social evolution (co-taught with [Péter Bayer](https://www.sites.google.com/view/peterbayer){:target="\_blank"}). [Toulouse Summer School in Quantitative Social Sciences](https://www.tse-fr.eu/toulouse-summer-school-quantitative-social-sciences){:target="\_blank"}.
