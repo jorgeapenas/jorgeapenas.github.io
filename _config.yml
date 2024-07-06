@@ -48,7 +48,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-bluesky_url: https://bsky.app/profile/jorgeapenas.bsky.social # your bluesky URL
+bluesky_url: jorgeapenas.bsky.social # your bluesky URL
 github_username: jorgeapenas # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # jorgeapenas # your Twitter handle
