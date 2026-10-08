@@ -43,9 +43,17 @@
   - firstname: ["Sylvie", "S."]
     url: https://sylvieestrela.weebly.com
 
+"Garcia":
+  - firstname: ["Julian", "Julián", "J."]
+    url: https://research.monash.edu/en/persons/julian-garcia/
+
 "González-Forero":
   - firstname: ["Mauricio", "M."]
     url: https://www.mgforero.info/
+
+"Handfield":
+  - firstname: ["Toby", "T."]
+    url: https://tobyhandfield.com/
 
 "Harcombe":
   - firstname: ["William", "William R.", "W. R."]
